@@ -1,1 +1,1 @@
-# deter-oracle
+# deter-graalvm
